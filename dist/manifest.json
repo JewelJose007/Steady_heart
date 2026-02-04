@@ -1,0 +1,17 @@
+{
+  "name": "Steady Heart Diary",
+  "short_name": "SteadyHeart",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020408",
+  "theme_color": "#818cf8",
+  "description": "A private sanctuary for emotional reflection and grounding.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2589/2589175.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

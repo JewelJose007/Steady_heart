@@ -1,0 +1,7 @@
+{
+  "name": "Steady Heart Diary 3.0",
+  "description": "A minimalistic, private sanctuary for emotional reflection and grounding, designed as a quiet gift of companionship.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
